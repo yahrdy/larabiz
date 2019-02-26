@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Listing;
-use function GuzzleHttp\Psr7\_parse_request_uri;
 use Illuminate\Http\Request;
 
 class ListingsController extends Controller
